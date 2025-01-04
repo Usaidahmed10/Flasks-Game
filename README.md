@@ -29,7 +29,7 @@ The **Magical Flask Game** is a Python-based terminal game where players sort ch
 - **chemicals1.txt, chemicals2.txt, chemicals3.txt:** Input files for the game levels.
 
 ## Screenshot
-*Include a screenshot of the UI here.*
+![Screenshot 2025-01-02 235643](https://github.com/user-attachments/assets/fdfdf516-8a45-4057-982e-15f3b3f8d6af)
 
 ## Cloning the Repository
 To get started with this project, clone the repository to your local machine:
